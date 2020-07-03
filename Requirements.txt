@@ -1,0 +1,9 @@
+seaborn==0.10.0
+matplotlib==3.1.3
+numpy==1.18.1
+pandas==1.0.1
+scikit-learn==0.22.1
+xgboost==0.90 
+Py-xgboost==0.90
+Python-weka-wrapper3==0.1.14
+mpmath==1.1.0
